@@ -1,6 +1,6 @@
 # Hi there, I'm Deepanshu Baluni! 👋  
 
-### 🚀 MERN Stack Developer | Backend Intern at Dgliger  
+### 🚀 MERN Stack Developer | Software Developer Intern at Dgliger  
 
 I’m passionate about building scalable and efficient web applications using the **MERN stack**. I have experience in both **frontend and backend development**, with a strong focus on building **robust APIs, authentication systems, and database management**.  
 

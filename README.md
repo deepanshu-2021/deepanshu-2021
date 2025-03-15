@@ -11,8 +11,6 @@ I’m passionate about building scalable and efficient web applications using th
 
 ### 🔥 Current Work  
 - **Software Developer Intern at Dgliger** – Enhancing backend APIs and optimizing database queries  
-- **Crypto Dashboard** – A dashboard that fetches live cryptocurrency data  
-
 ### 📌 Future Goals  
 - Contribute to open-source projects  
 - Deepen knowledge in system design and scalable architectures  
